@@ -1,0 +1,54 @@
+
+body {
+    background-image: url(https://images.wallpaperscraft.ru/image/gory_zakat_nebo_117732_4423x2742.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-bottom: 30%;
+    font-size: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+
+}
+.main{
+
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+}
+.header{
+    font-size: 25px;
+}
+a:link{
+    color: black;
+}
+a:hover {
+    color: white;
+    transition: .1s 0s;
+}
+
+.rectangle{
+    width:900px;
+    height:1px;
+    margin: 0 auto;
+    background:linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 49%, rgba(255,255,255,0) 100%);
+}
+.content-table td {
+    width: 50%;
+    height: 50px;
+    font-family: 'Pangolin', cursive;
+    font-size: 30px;
+}
+.main ul{
+
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.text {
+    text-align: justify;
+    font-family: 'Noto Sans', sans-serif;
+    margin-right: 10%;
+}
+
+#ref {
+
+}
